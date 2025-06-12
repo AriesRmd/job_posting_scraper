@@ -39,7 +39,7 @@ scraping_data_job_posting/
 
 ---
 
-### 6. Hasil Output
+### Hasil Output
 
 Kalau kamu punya dashboard, tampilkan link-nya. Misal:
 
@@ -47,6 +47,9 @@ Kalau kamu punya dashboard, tampilkan link-nya. Misal:
 ## 📊 Dashboard Example
 
 Lihat dashboard hasil data ini di: (https://lookerstudio.google.com/u/0/reporting/4587abe8-7a1f-4ea9-af75-3b87d3c607e0/page/p_p59trqssrd)
+
+## 🎥 Demo Video
+[!(https://drive.google.com/file/d/1GKBVz47QWTtyjmYu4_BaZZaQZaZ8X0kb/view?usp=sharing)
 
 ## 👨‍💻 About Me
 
