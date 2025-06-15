@@ -27,8 +27,8 @@ def run_glints_scraper2():
 
         email_box = driver.find_element(By.XPATH, "//input[@aria-label='Alamat email']")
         pw_box = driver.find_element(By.XPATH, "//input[@aria-label='Kata sandi']")
-        email_box.send_keys("mhmmd.aries15@gmail.com")
-        pw_box.send_keys("082153940299")
+        email_box.send_keys("YOUR_EMAIL_HERE")
+        pw_box.send_keys("YOUR_PASSWORD_HERE")
         email_box.send_keys(Keys.RETURN)
         pw_box.send_keys(Keys.RETURN)
         time.sleep(8)
