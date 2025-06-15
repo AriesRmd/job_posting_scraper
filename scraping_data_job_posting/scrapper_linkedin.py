@@ -35,8 +35,8 @@ def run_linkedin_scraper():
         time.sleep(2)
         email_box = driver.find_element(By.XPATH, "//input[@aria-label='Email or phone']")
         pw_box = driver.find_element(By.XPATH, "//input[@aria-label='Password']")
-        email_box.send_keys("mhmmd.aries15@gmail.com",Keys.RETURN)
-        pw_box.send_keys("a082153940299",Keys.RETURN)
+        email_box.send_keys("YOUR_EMAIL_HERE",Keys.RETURN)
+        pw_box.send_keys("YOUR_PASSWORD_HERE",Keys.RETURN)
         time.sleep(5)
     except Exception as e:
         print("❌ Gagal login ke Linkedin:", e)
